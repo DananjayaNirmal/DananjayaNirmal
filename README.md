@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🎓 Undergraduate | SLIIT – BSc in IT<br>💻 Tech Enthusiast | Code Lover | Problem Solver<br>📈 Passionate About: Digital Marketing | Business Analytics | Data Science<br>📫 Feel free to connect or explore my work!</p>
+<p align="left">🎓 Undergraduate | SLIIT – BSc in IT<br>💻 Tech Enthusiast | Code Lover | Problem Solver<br>📈 Passionate About: Digital Marketing | Business Analytics | Data Science
 
 ###
 
