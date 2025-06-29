@@ -10,11 +10,11 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DananjayaNirmal&show_icons=true&locale=en&layout=compact" alt="dananjayanirmal" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=DananjayaNirmal&show_icons=true&locale=en&layout=compact" alt="dananjayanirmal" /></p>
 
 ###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DananjayaNirmal&show_icons=true&locale=en" alt="dananjayanirmal" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=DananjayaNirmal&show_icons=true&locale=en" alt="dananjayanirmal" /></p>
 
 ###
 
